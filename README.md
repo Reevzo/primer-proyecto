@@ -1,2 +1,2 @@
-# primer-proyecto
-Mi primer repositorio para aprender GitHub
+# Mi primer repositario! 🚀  
+Estoy aprendiendo a usar GitHub y este es mi primer paso. ¡Vamos por más! 💪
