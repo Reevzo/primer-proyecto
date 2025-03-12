@@ -1,0 +1,2 @@
+Este es mi primer archivo de prueba en GitHub.  
+Estoy aprendiendo cómo usar repositorios.
